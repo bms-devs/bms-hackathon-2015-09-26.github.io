@@ -13,12 +13,12 @@ url:              https://bms-hackathon-2015-09-26.github.io/
 
 author:
   name:           'Daniel Wojda, Łukasz Kamiński'
-  url:            
+  url:
 
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          0.0.1
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/bms-hackathon-2015-09-26
