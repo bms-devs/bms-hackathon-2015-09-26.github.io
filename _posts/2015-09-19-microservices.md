@@ -2,6 +2,10 @@
 * jdk 1.8
 * maven 3
 
+## Important url:
+* http://frontend-service.heroku.app
+* http://eureka-service.heroku.app
+
 ## Frontend-Service
 * [Mustashe](https://github.com/mjeanroy/springmvc-mustache)
 * [Material Design Bootstrap](http://mdbootstrap.com)
