@@ -3,8 +3,9 @@
 * maven 3
 
 ## Important url:
-* http://frontend-service.heroku.app
-* http://eureka-service.heroku.app
+* [frontend](http://frontend-service.herokuapp.com)
+* [boot-admin](http://admin-service.herokuapp.com)
+* [eureka](http://eureka-service.herokuapp.com)
 
 ## Frontend-Service
 * [Mustashe](https://github.com/mjeanroy/springmvc-mustache)
