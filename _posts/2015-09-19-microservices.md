@@ -9,11 +9,9 @@
 
 # FAQ
 1. Jak zrobić microservice?
-Zacznij od htttp://start.spring.io - tam wygenerujesz działającą aplikację webową.
-
+* Zacznij od htttp://start.spring.io - tam wygenerujesz działającą aplikację webową.
 1. A co z bezpieczeństwem? Jak one się autoryzują?
 * distibution session w tomcat'ach - nigdy!
 * Spring Cloud Security - rozproszona sesja na Redis
-
 1. Co to jest HATEOAS? A HAL?
 //TODO...
